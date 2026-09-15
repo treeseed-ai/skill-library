@@ -16,3 +16,4 @@ The TreeSeed Skill teaches the current supported operating architecture through 
 
 It must remain source-only and must not preserve retired commands, compatibility paths, or runtime responsibilities owned by TreeSeed packages.
 
+TreeDX is the sole authoring and publication authority for this objective.
