@@ -1,15 +1,10 @@
 ---
-id: objective:skill-core
-title: TreeSeed Skill Core Objective
-description: The TreeSeed Skill should teach the current supported operating architecture through concise source-only guidance and exact commands.
-date: 2026-09-15
-summary: The TreeSeed Skill provides progressive operating guidance without becoming a runtime, compatibility layer, or duplicate authority.
-status: live
-timeHorizon: long-term
-motivation: Humans and agents need one current, verifiable operating guide that matches generated CLI contracts and exact-ref custody.
-primaryContributor: skill-steward
-relatedQuestions: []
-relatedBooks: []
+schemaVersion: treeseed.objective/v1
+id: skill-core
+projectId: skill
+title: "TreeSeed Skill Core Objective"
+outcome: "The TreeSeed Skill provides progressive operating guidance without becoming a runtime, compatibility layer, or duplicate authority."
+status: active
 ---
 
 The TreeSeed Skill teaches the current supported operating architecture through concise source-only guidance and exact commands.
